@@ -3,9 +3,22 @@
 ### Encabezado menos mediano. Tipo H3
 
 **negrita** o __negrita__
+
 *cursiva*  __cursiva__
 
 ~~tachado~~
 
-'codigo'
+`codigo`
+
+#### lista desordenada
+    - elemento 1
+    - elemento 2
+    - elemento 3
+        - subelemento
+
+#### listas ordenadas
+
+    1. elemento 1
+    2. elemento 2
+    3. elemento 3
 
