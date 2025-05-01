@@ -37,3 +37,8 @@ def sumar ():
         print("sumando....")
 ```        
 
+### tablas
+
+|columna 1 | columna 2 |
+|----------|-----------|
+| dato 1   |dato 2     |
