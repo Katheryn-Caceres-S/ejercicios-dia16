@@ -42,3 +42,9 @@ def sumar ():
 |columna 1 | columna 2 |
 |----------|-----------|
 | dato 1   |dato 2     |
+
+#### lineas
+
+---
+***
+___
